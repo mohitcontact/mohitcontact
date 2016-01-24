@@ -1,0 +1,10 @@
+assignment 2
+
+1 b
+2 a
+3 a
+4 c
+5 a
+6 c
+7 d
+8 b
